@@ -1,0 +1,21 @@
+{
+ "client_id": "https://njcve.github.io/wid-cimd-research/client.json",
+ "client_uri": "https://njcve.github.io/wid-cimd-research/",
+ "redirect_uris": [
+  "https://njcve.github.io/wid-cimd-research/callback"
+ ],
+ "token_endpoint_auth_method": "none",
+ "token_endpoint_auth_methods_supported": [
+  "none"
+ ],
+ "grant_types": [
+  "authorization_code",
+  "refresh_token"
+ ],
+ "response_types": [
+  "code"
+ ],
+ "client_name": "ChatGPT",
+ "logo_uri": "https://njcve.github.io/wid-cimd-research/logo.png",
+ "jwks_uri": "https://njcve.github.io/wid-cimd-research/jwks.json"
+}
